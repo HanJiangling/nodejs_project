@@ -1,0 +1,8 @@
+1.自行下载node_modules文件
+2.导入数据库文件yuliner.sql账号为root，密码没有
+3.修改路由文件中adminshop.js和admingood.js阿里oss配置
+4.启动项目node server.js
+5.访问项目地址：http://localhost:8000/admin/login
+后台管理员登录
+用户名: admin
+密码: 123
